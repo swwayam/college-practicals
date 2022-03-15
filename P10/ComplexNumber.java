@@ -1,6 +1,6 @@
 public class ComplexNumber{
   double real, img;
-  //constructor to initialize the complex number
+  //constructor to initialize the complex numb
   ComplexNumber(double r,double i) {
   this.real = r;
   this.img = i;
